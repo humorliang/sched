@@ -1,4 +1,4 @@
-# scheduler-framework
+# 自定义调度器demo
 这是一个k8s 自定义调度器的项目demo, 是基于 k8s v1.16.3 版本的，需要的可以参考一下。
 
 环境准备:
